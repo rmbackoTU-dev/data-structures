@@ -5,7 +5,7 @@
  **Note: This is a learning project. This code is not intended for use in production environments.**
 
 # Current Roadmap
- [ ] Stack
+ [X] Stack
  [ ] Single Link list
  [ ] Double Link List
  [ ] Queue
